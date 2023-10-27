@@ -1,4 +1,4 @@
-\\Java program to write a selection sort
+//Java program to write a selection sort
 import java.util.*;
 import java.util.Random;
 
